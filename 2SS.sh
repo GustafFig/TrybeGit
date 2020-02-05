@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Vou ter muit sucesso!!!
+#Vou ter muito sucesso!!!
 #Eu sou Tryber e Cheer
 
 var='Shell Script com variáveis é demais!'
